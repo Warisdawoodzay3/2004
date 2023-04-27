@@ -408,9 +408,7 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("")
-		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -")
-		print("\033[1;37mNOTE : APPROVAL K LIYE FACEBOOK PR FOLLOW KR DEN")
-		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ")
+		print("- - - - - - - - - - - - - - - DAWOODZAY- - - - - - - - - - - - - - -")
 		
 		
 		print("")
@@ -426,13 +424,13 @@ class Main:
 		elif Baloch in ["1", "01"]:
 			os.system("xdg-open https://www.facebook.com/dawoodzay.waris")
 			print("")
-			time.sleep(3.0)
+			time.sleep(7.0)
 			print("\033[1;37m    CHECKING APPROVAL ")
 			print("")
 			input("\n\033[1;37m TYPE THE OWNER FACEBOOK ACCOUNT NAME \033[1;37m")
 			time.sleep(3.1)
 			print("")
-			print("\033[1;32m WELCOME TO *𝙳𝙰𝚆𝙾𝙾𝙳𝚉𝙰𝚈_HACKER*  TOOLS")
+			print("\033[1;32m WELCOME TO DAWOODZAY_HACKER  TOOLS")
 			time.sleep(3.0)
 			os.system("clear")
 		print(logo)
@@ -447,13 +445,13 @@ class Main:
 		UZAIR =input(" \033[1;32mCHOOSE : ")
 		if UZAIR in ["451", "0451"]:
 			File()
-		if UZAIR in ["452", "0452"]:
+		if UZAIR in ["45‌2", "045‌2"]:
 			Public()
-		if UZAIR in ["453", "0453"]:
+		if UZAIR in ["45‌3", "045‌3"]:
 			os.system("python2 mrd1.py")
-		if UZAIR in ["454", "0454"]:
+		if UZAIR in ["45‌4", "045‌4"]:
 			self.old()
-		if UZAIR in ["1", "01"]:
+		if UZAIR in ["555", "0555"]:
 			self.old2()
 			exit()
 		else:
