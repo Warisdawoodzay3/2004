@@ -428,7 +428,7 @@ class Main:
 			input("\n\033[1;37m TYPE THE OWNER FACEBOOK ACCOUNT NAME \033[1;37m")
 			time.sleep(3.1)
 
-            print(" Select Correctly ")
+            print("Select Correctly")
 			time.sleep(1)
 			Main()
 			
