@@ -412,7 +412,7 @@ class Main:
 		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ")
 		
 
-		print("\033[1;37m [1]  FOLLOW ME  
+		print("\033[1;37m [1] First  FOLLOW Me") 
 		Baloch = input("\n\033[1;37m  Choose : \033[1;32m")
 		if Baloch in ["", " "]:
 			exit()
